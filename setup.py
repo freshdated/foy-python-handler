@@ -12,7 +12,7 @@ setup(
     author_email='re.carreira@gmail.com',
     url='https://github.com/fountain-of-youth/foy-python-handler',
     license='LICENSE.txt',
-    version='0.0.1',
+    version='0.0.2',
     zip_safe=False,
     include_package_data=True,
     entry_points={
@@ -25,5 +25,6 @@ setup(
     install_requires=[
         'yolk==0.4.3',
 		'sh==1.07',
+        'pytest==2.3.4'
         ],
 )
