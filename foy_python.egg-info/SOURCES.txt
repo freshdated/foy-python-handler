@@ -1,6 +1,7 @@
 CHANGES.txt
 LICENSE.txt
 MANIFEST.in
+requirements.txt
 setup.py
 foy_python/__init__.py
 foy_python/cli.py
@@ -13,4 +14,4 @@ foy_python.egg-info/entry_points.txt
 foy_python.egg-info/not-zip-safe
 foy_python.egg-info/requires.txt
 foy_python.egg-info/top_level.txt
-test/test.py
+test/test_foy_python.py

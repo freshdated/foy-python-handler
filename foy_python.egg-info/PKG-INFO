@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: foy-python
-Version: 0.0.1
+Version: 0.0.2
 Summary: UNKNOWN
 Home-page: https://github.com/fountain-of-youth/foy-python-handler
 Author: Renata Carreira
@@ -21,4 +21,18 @@ Description: Foy - Python Handler
         Check for a package's new version:
         
         	foy.python -C <package>
+        
+        Project requirements
+        ------------
+        
+        Your project should have a requirements.txt file in the following format:
+        
+        	[package]==[version]
+        
+        Note that you can also use:
+        
+        	[package]>=[version]
+        	[package]<=[version]
+        	[package]>[version]
+        	[package]<[version]
 Platform: UNKNOWN
