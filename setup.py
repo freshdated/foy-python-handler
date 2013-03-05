@@ -1,13 +1,9 @@
 from os.path import dirname, abspath, join
 from setuptools import setup
 
-with open(abspath(join(dirname(__file__), 'README.md'))) as fileobj:
-    README = fileobj.read().strip()
-
 setup(
     name='foy-python',
-    description='',
-    long_description=README,
+    description='Python handler for fountain-of-youth',
     author='Renata Carreira',
     author_email='re.carreira@gmail.com',
     url='https://github.com/fountain-of-youth/foy-python-handler',
