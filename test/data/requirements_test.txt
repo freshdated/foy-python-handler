@@ -1,5 +1,5 @@
 #comment
-Flask==0.9
+Flask==1.0
 Jinja2==2.6
 rtmp2img>0.1.5
 #another comment
