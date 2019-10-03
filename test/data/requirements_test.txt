@@ -4,7 +4,7 @@ Jinja2==2.6
 rtmp2img>0.1.5
 #another comment
 Werkzeug<=0.8.3
-requests==0.14.2
+requests==2.20.0
 Django<1.4.5
 #and another comment
 sh>=1.07
