@@ -1,6 +1,6 @@
 #comment
 Flask==0.9
-Jinja2==2.6
+Jinja2==2.11.3
 rtmp2img>0.1.5
 #another comment
 Werkzeug<=0.8.3
